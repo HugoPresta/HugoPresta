@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HugoPresta  
 - 👀 I’m interested in ... querer ser um programador
-- 🌱 I’m currently learning  PYTHON
+- 🌱 I’m currently learning  javaScript , HTML e CSS
 - 📫 How to reach me ...
 insta:presta_hugo
 <!---
